@@ -1,0 +1,7 @@
+C:\Git\2022_1116_test\common\C#\2ndDay\obj\Debug\2ndDay.csproj.AssemblyReference.cache
+C:\Git\2022_1116_test\common\C#\2ndDay\obj\Debug\2ndDay.csproj.CoreCompileInputs.cache
+C:\Git\2022_1116_test\common\C#\2ndDay\bin\Debug\2ndDay.exe.config
+C:\Git\2022_1116_test\common\C#\2ndDay\bin\Debug\2ndDay.exe
+C:\Git\2022_1116_test\common\C#\2ndDay\bin\Debug\2ndDay.pdb
+C:\Git\2022_1116_test\common\C#\2ndDay\obj\Debug\2ndDay.exe
+C:\Git\2022_1116_test\common\C#\2ndDay\obj\Debug\2ndDay.pdb
