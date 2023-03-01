@@ -1,0 +1,7 @@
+C:\Git\Csharp_study\2ndDay_12\bin\Debug\2ndDay_12.exe.config
+C:\Git\Csharp_study\2ndDay_12\bin\Debug\2ndDay_12.exe
+C:\Git\Csharp_study\2ndDay_12\bin\Debug\2ndDay_12.pdb
+C:\Git\Csharp_study\2ndDay_12\obj\Debug\2ndDay_12.csproj.AssemblyReference.cache
+C:\Git\Csharp_study\2ndDay_12\obj\Debug\2ndDay_12.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\2ndDay_12\obj\Debug\2ndDay_12.exe
+C:\Git\Csharp_study\2ndDay_12\obj\Debug\2ndDay_12.pdb

@@ -1,0 +1,6 @@
+C:\Git\Csharp_study\2ndDay_ex2\bin\Debug\2ndDay_ex2.exe.config
+C:\Git\Csharp_study\2ndDay_ex2\bin\Debug\2ndDay_ex2.exe
+C:\Git\Csharp_study\2ndDay_ex2\bin\Debug\2ndDay_ex2.pdb
+C:\Git\Csharp_study\2ndDay_ex2\obj\Debug\2ndDay_ex2.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\2ndDay_ex2\obj\Debug\2ndDay_ex2.exe
+C:\Git\Csharp_study\2ndDay_ex2\obj\Debug\2ndDay_ex2.pdb

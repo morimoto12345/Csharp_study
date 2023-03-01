@@ -1,0 +1,6 @@
+C:\Git\Csharp_study\2ndDay_9\obj\Debug\2ndDay_9.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\2ndDay_9\bin\Debug\2ndDay_9.exe.config
+C:\Git\Csharp_study\2ndDay_9\bin\Debug\2ndDay_9.exe
+C:\Git\Csharp_study\2ndDay_9\bin\Debug\2ndDay_9.pdb
+C:\Git\Csharp_study\2ndDay_9\obj\Debug\2ndDay_9.exe
+C:\Git\Csharp_study\2ndDay_9\obj\Debug\2ndDay_9.pdb

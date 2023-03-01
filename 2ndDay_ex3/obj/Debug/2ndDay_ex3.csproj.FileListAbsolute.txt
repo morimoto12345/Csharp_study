@@ -1,0 +1,7 @@
+C:\Git\Csharp_study\2ndDay_ex3\bin\Debug\2ndDay_ex3.exe.config
+C:\Git\Csharp_study\2ndDay_ex3\bin\Debug\2ndDay_ex3.exe
+C:\Git\Csharp_study\2ndDay_ex3\bin\Debug\2ndDay_ex3.pdb
+C:\Git\Csharp_study\2ndDay_ex3\obj\Debug\2ndDay_ex3.csproj.AssemblyReference.cache
+C:\Git\Csharp_study\2ndDay_ex3\obj\Debug\2ndDay_ex3.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\2ndDay_ex3\obj\Debug\2ndDay_ex3.exe
+C:\Git\Csharp_study\2ndDay_ex3\obj\Debug\2ndDay_ex3.pdb
