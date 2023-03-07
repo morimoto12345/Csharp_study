@@ -1,0 +1,6 @@
+C:\Git\Csharp_study\3rdDay_5\bin\Debug\3rdDay_5.exe.config
+C:\Git\Csharp_study\3rdDay_5\bin\Debug\3rdDay_5.exe
+C:\Git\Csharp_study\3rdDay_5\bin\Debug\3rdDay_5.pdb
+C:\Git\Csharp_study\3rdDay_5\obj\Debug\3rdDay_5.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\3rdDay_5\obj\Debug\3rdDay_5.exe
+C:\Git\Csharp_study\3rdDay_5\obj\Debug\3rdDay_5.pdb

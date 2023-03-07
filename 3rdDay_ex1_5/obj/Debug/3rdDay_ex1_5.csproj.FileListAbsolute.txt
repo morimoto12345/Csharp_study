@@ -1,0 +1,7 @@
+C:\Git\Csharp_study\3rdDay_ex1_5\bin\Debug\3rdDay_ex1_5.exe.config
+C:\Git\Csharp_study\3rdDay_ex1_5\bin\Debug\3rdDay_ex1_5.exe
+C:\Git\Csharp_study\3rdDay_ex1_5\bin\Debug\3rdDay_ex1_5.pdb
+C:\Git\Csharp_study\3rdDay_ex1_5\obj\Debug\3rdDay_ex1_5.csproj.AssemblyReference.cache
+C:\Git\Csharp_study\3rdDay_ex1_5\obj\Debug\3rdDay_ex1_5.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\3rdDay_ex1_5\obj\Debug\3rdDay_ex1_5.exe
+C:\Git\Csharp_study\3rdDay_ex1_5\obj\Debug\3rdDay_ex1_5.pdb
