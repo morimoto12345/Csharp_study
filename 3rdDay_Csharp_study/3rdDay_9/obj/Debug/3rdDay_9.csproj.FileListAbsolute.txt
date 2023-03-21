@@ -1,7 +1,0 @@
-C:\Git\Csharp_study\3rdDay_9\bin\Debug\3rdDay_9.exe.config
-C:\Git\Csharp_study\3rdDay_9\bin\Debug\3rdDay_9.exe
-C:\Git\Csharp_study\3rdDay_9\bin\Debug\3rdDay_9.pdb
-C:\Git\Csharp_study\3rdDay_9\obj\Debug\3rdDay_9.csproj.AssemblyReference.cache
-C:\Git\Csharp_study\3rdDay_9\obj\Debug\3rdDay_9.csproj.CoreCompileInputs.cache
-C:\Git\Csharp_study\3rdDay_9\obj\Debug\3rdDay_9.exe
-C:\Git\Csharp_study\3rdDay_9\obj\Debug\3rdDay_9.pdb
