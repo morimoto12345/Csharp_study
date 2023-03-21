@@ -1,0 +1,7 @@
+C:\Git\Csharp_study\ex0308_Csharp\bin\Debug\ex0308_Csharp.exe.config
+C:\Git\Csharp_study\ex0308_Csharp\bin\Debug\ex0308_Csharp.exe
+C:\Git\Csharp_study\ex0308_Csharp\bin\Debug\ex0308_Csharp.pdb
+C:\Git\Csharp_study\ex0308_Csharp\obj\Debug\ex0308_Csharp.csproj.AssemblyReference.cache
+C:\Git\Csharp_study\ex0308_Csharp\obj\Debug\ex0308_Csharp.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\ex0308_Csharp\obj\Debug\ex0308_Csharp.exe
+C:\Git\Csharp_study\ex0308_Csharp\obj\Debug\ex0308_Csharp.pdb

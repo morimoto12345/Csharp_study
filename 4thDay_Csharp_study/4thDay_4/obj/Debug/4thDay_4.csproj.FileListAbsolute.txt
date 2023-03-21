@@ -1,0 +1,7 @@
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\obj\Debug\4thDay_4.csproj.AssemblyReference.cache
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\obj\Debug\4thDay_4.csproj.CoreCompileInputs.cache
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\bin\Debug\4thDay_4.exe.config
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\bin\Debug\4thDay_4.exe
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\bin\Debug\4thDay_4.pdb
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\obj\Debug\4thDay_4.exe
+C:\Git\Csharp_study\4thDay_Csharp_study\4thDay_4\obj\Debug\4thDay_4.pdb
